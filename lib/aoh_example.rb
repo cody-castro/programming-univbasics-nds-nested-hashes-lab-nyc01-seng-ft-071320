@@ -14,7 +14,7 @@ pat_m =  { name:  "Pat Monteseian", occupation: "Staff" },
 kate_g = { name:  "Kate Gompert", occupation: "None" },
 bruce_g = { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
- return infinite_jest
+ 
 end
 # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
