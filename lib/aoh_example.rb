@@ -8,11 +8,11 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   infinite_jest = [
-    DON_G = { name:  "Don Gately", occupation: "Live-in Staff" },
-JOELLE_VD = { name:  "Joelle van Dyne", occupation: "Radio Personality" },
-PAT_M =  { name:  "Pat Monteseian", occupation: "Staff" },
-KATE_G = { name:  "Kate Gompert", occupation: "None" },
-BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
+    don_g = { name:  "Don Gately", occupation: "Live-in Staff" },
+joelle_vd = { name:  "Joelle van Dyne", occupation: "Radio Personality" },
+pat_m =  { name:  "Pat Monteseian", occupation: "Staff" },
+kate_g = { name:  "Kate Gompert", occupation: "None" },
+bruce_g = { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
   
 end
